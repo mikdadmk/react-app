@@ -1,0 +1,13 @@
+header{
+    height: 80px;
+    width: 100%;
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header a{
+    color: #160606;
+    text-decoration: none;
+    margin: 20px;
+}
